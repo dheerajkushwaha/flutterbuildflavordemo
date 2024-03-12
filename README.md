@@ -102,6 +102,12 @@ Generate the icons with $ flutter pub run flutter_launcher_icons:main -f flutter
 This will generare all size of launch icon for all Floavor
 Example :-
 [res](android%2Fapp%2Fsrc%2Fprod%2Fres)
+
+#Dev Environment :
+![Screenshot_20240312_215919.png](Screenshot_20240312_215919.png)
+
+#Prod Environment
+![Screenshot_20240312_215739.png](Screenshot_20240312_215739.png)
  
 
 
