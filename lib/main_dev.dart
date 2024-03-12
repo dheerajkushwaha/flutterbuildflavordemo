@@ -5,10 +5,6 @@ import 'main_common.dart';
 
 void main() {
 
- /* FlavorConfig config = FlavorConfig(appTitle: 'https://api.example.com',
-  imageLocation: 'assets/images/dev.png');
-
-  mainCommon(config);*/
   mainCommon(
      FlavorConfig()
       ..appTitle = "Dev Environment"
