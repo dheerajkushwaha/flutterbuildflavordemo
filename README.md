@@ -6,7 +6,7 @@ Flavors allow you to create separate environments,theme , style  for your app us
 
 # Add Dependency :
 
-Add Dependency to your pubspec.yaml file :-
+Add Dependency to your pubspec.yaml file (Please check on google about these dependency if you are not aware) :-
 ```
   flutter_riverpod: ^2.3.2
   flutter_launcher_icons: ^0.12.0
@@ -96,7 +96,12 @@ add image in assets folder and add entry pubspec.yaml
     - assets/images/
 ```
  After adding images run below command in terminal
- 
+
+ Generate the icons with $ flutter pub run flutter_launcher_icons:main -f flutter_launcher_icons*
+
+ This will generare all size of launch icon for all Floavor 
+ Example :- 
+ [res](android%2Fapp%2Fsrc%2Fprod%2Fres)
  
 
 
