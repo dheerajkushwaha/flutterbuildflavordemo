@@ -95,7 +95,8 @@ add image in assets folder and add entry pubspec.yaml
     - assets/app_icons/
     - assets/images/
 ```
- After adding images run below commond in terminal
+ After adding images run below command in terminal
+ 
  
 
 
